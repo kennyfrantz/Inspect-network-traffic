@@ -1,11 +1,11 @@
-# Inspect-network-traffic
+
 
 <p align="center">
 <img src="![WireShark](https://github.com/kennyfrantz/Inspect-network-traffic/assets/163783743/fd361e59-a50b-4c76-9d26-567c63eb2e2a)
 "/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Inspect-network-traffic</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
