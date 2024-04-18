@@ -6,7 +6,7 @@
 </p>
 
 <h1>Inspect-network-traffic</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines how Wireshark uses OSI layers to break down packets and how to use these layers for analysis..<br />
 
 
 <h2>Technology Used</h2>
