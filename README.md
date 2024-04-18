@@ -1,8 +1,9 @@
 
 
 <p align="center">
-<img src="![WireShark](https://github.com/kennyfrantz/Inspect-network-traffic/assets/163783743/fd361e59-a50b-4c76-9d26-567c63eb2e2a)
-"/>
+
+![WireShark](https://github.com/kennyfrantz/Inspect-network-traffic/assets/163783743/20c4b0a9-bf01-4bad-b4e2-6aa19385ae9a)
+
 </p>
 
 <h1>Inspect-network-traffic</h1>
